@@ -1,7 +1,8 @@
 # Deep-Oscillometry
 This repository contains the code of pre processing and deep learning model that was employed in our work: A Hybrid Deep Morpho-Temporal Framework for Oscillometric Blood Pressure Measurement
 
-#Running the code
+# Running the code
+
 1 - The datasets subdirectories should be created as follows:
 	root directory/OMW1
 	root directory/CP_LPf
