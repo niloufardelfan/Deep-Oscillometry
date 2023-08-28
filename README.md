@@ -4,15 +4,15 @@ This repository contains the code of pre processing and deep learning model that
 # Running the code
 
 1 - The datasets subdirectories should be created as follows:
-	root directory/OMW1
-	root directory/CP_LPf
-	root directory/indf
-	root directory/denoise
+*root directory/OMW1
+*root directory/CP_LPf
+*root directory/indf
+*root directory/denoise
 
 2 - Run the Matlab code, which is included in the dataset folder, to prepare to generate files.
 	
 3 - Using the 'DeepOscillometry.yml' file and Anaconda, install all the required packages:
-	conda env create -f DeepOscillometryEnv.yml
+conda env create -f DeepOscillometryEnv.yml
 	
 4 - The environment should be activated.
 
